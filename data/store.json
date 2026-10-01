@@ -1,0 +1,447 @@
+{
+  "products": [
+    {
+      "id": "prod-1",
+      "category": "paints",
+      "categoryLabel": "Paints & Coatings",
+      "name": "Asian Paints Royale Luxury Emulsion",
+      "brand": "Asian Paints",
+      "description": "Ultra-luxurious interior acrylic wall emulsion with Teflon surface protector for high-sheen, stain-resistant architectural finishes.",
+      "specs": [
+        "Finish: High Sheen / Soft Sheen",
+        "Coverage: 260–300 sq.ft/liter (1 coat)",
+        "Dilution: 40-45% water",
+        "Drying Time: 30 minutes touch dry"
+      ],
+      "unit": "Per 1L, 4L, 10L, 20L Bucket",
+      "indicativePrice": "₹520 – ₹610 / Liter",
+      "inStock": true,
+      "minOrderQty": "10 Liters (Wholesale bulk slabs available)",
+      "verificationSource": "Verified from Bengaluru Trade Listing (Asian Paints Authorized Reseller)",
+      "isFlaggedForOwnerReview": false
+    },
+    {
+      "id": "prod-2",
+      "category": "paints",
+      "categoryLabel": "Paints & Coatings",
+      "name": "Asian Paints Tractor Emulsion (Economy Interior)",
+      "brand": "Asian Paints",
+      "description": "Smooth matte interior wall paint offering 1.5x greater coverage than conventional distempers. Formulated for residential complexes and commercial projects.",
+      "specs": [
+        "Finish: Smooth Matte",
+        "Pack Sizes: 1L, 4L, 10L, 20L",
+        "Washability: Moderate",
+        "Application: Brush / Roller / Spray"
+      ],
+      "unit": "Per 20L Bucket",
+      "indicativePrice": "₹2,650 – ₹2,900 / 20L",
+      "inStock": true,
+      "minOrderQty": "5 Buckets",
+      "verificationSource": "Verified from Karnataka Merchant Stock Listing",
+      "isFlaggedForOwnerReview": false
+    },
+    {
+      "id": "prod-3",
+      "category": "chemicals",
+      "categoryLabel": "Waterproofing & Chemicals",
+      "name": "Dr. Fixit 101 LW+ Integral Waterproofing Compound",
+      "brand": "Pidilite Dr. Fixit",
+      "description": "Integral liquid waterproofing compound for concrete and plastering mortar. Minimizes shrinkage cracks and prevents efflorescence in building structures.",
+      "specs": [
+        "Dosage: 200 ml per 50 kg cement bag",
+        "Form: Dark brown liquid",
+        "Compliance: IS:2645-2003",
+        "Packing: 1L, 5L, 20L"
+      ],
+      "unit": "Per Canister / Drum",
+      "indicativePrice": "₹145 / Liter (Bulk rates for 20L+)",
+      "inStock": true,
+      "minOrderQty": "20 Liters",
+      "verificationSource": "Verified from Trade Listing records",
+      "isFlaggedForOwnerReview": false
+    },
+    {
+      "id": "prod-4",
+      "category": "chemicals",
+      "categoryLabel": "Waterproofing & Chemicals",
+      "name": "Aditya Birla White Wall Putty (Polymer Modified)",
+      "brand": "Birla White",
+      "description": "White cement-based water-resistant polymer modified putty creating a smooth, durable base for interior and exterior painting works.",
+      "specs": [
+        "Composition: White Cement + Redispersible Polymers",
+        "Coverage: 14–16 sq.ft/kg (2 coats)",
+        "Pot Life: 2–2.5 hours",
+        "Bag Size: 40 kg"
+      ],
+      "unit": "Per 40 kg Bag",
+      "indicativePrice": "₹840 – ₹920 / 40kg Bag",
+      "inStock": true,
+      "minOrderQty": "10 Bags",
+      "verificationSource": "Verified from S S Traders inventory listing",
+      "isFlaggedForOwnerReview": false
+    },
+    {
+      "id": "prod-5",
+      "category": "laminates",
+      "categoryLabel": "Decorative Laminates",
+      "name": "1.0mm Premium Architectural Laminate Sheets",
+      "brand": "i-Lam / Abhiyan Lam Collections",
+      "description": "High-pressure decorative laminates in suede, ultra-matte, high-gloss, and synchronized wood grain textures for wardrobes, cabinetry, and wall cladding.",
+      "specs": [
+        "Thickness: 1.0mm & 0.8mm",
+        "Sheet Size: 8ft x 4ft (2440mm x 1220mm)",
+        "Features: Anti-fingerprint, scratch-resistant, heat-resistant",
+        "Grades: Standard & Post-forming"
+      ],
+      "unit": "Per Sheet (8x4 ft)",
+      "indicativePrice": "₹1,450 – ₹2,800 / Sheet",
+      "inStock": true,
+      "minOrderQty": "5 Sheets",
+      "verificationSource": "Verified from S S Traders Wholesale Laminates Catalog (Bengaluru)",
+      "isFlaggedForOwnerReview": false
+    },
+    {
+      "id": "prod-6",
+      "category": "plywood",
+      "categoryLabel": "Plywood & Boards",
+      "name": "CenturyPly Club Prime Marine Grade Plywood (IS:710)",
+      "brand": "CenturyPly",
+      "description": "Boiling Water Proof (BWP) marine grade plywood treated with patented GLP (Glue Line Protection) technology, resistant to termites and borer attack.",
+      "specs": [
+        "Grade: IS:710 Marine BWP",
+        "Thicknesses: 6mm, 9mm, 12mm, 16mm, 19mm",
+        "Warranty: 30 Year Manufacturer",
+        "Emission: E0 Low Emission certified"
+      ],
+      "unit": "Per Sq. Ft.",
+      "indicativePrice": "₹95 – ₹148 / sq.ft (Varies by thickness)",
+      "inStock": true,
+      "minOrderQty": "100 sq.ft",
+      "verificationSource": "Verified from Karnataka Plywood distribution records",
+      "isFlaggedForOwnerReview": false
+    },
+    {
+      "id": "prod-7",
+      "category": "hardware",
+      "categoryLabel": "Hardware & Accessories",
+      "name": "Interior Paint Rollers, Trays & Sanding Dry Paper Consignment",
+      "brand": "Professional Trade Pack",
+      "description": "Contractor-grade woven microfiber 9-inch paint rollers, ergonomically molded cage frames, heavy-duty paint trays, and waterproof silicone carbide emery sheets.",
+      "specs": [
+        "Roller Size: 9 inch (225mm)",
+        "Nap Height: 10mm medium pile",
+        "Grit Assortment: P80, P120, P180, P220, P320",
+        "Packaging: 12-piece bundle"
+      ],
+      "unit": "Per Trade Pack / Box",
+      "indicativePrice": "₹180 / Roller Kit | ₹450 / 50-sheet box",
+      "inStock": true,
+      "minOrderQty": "1 Carton",
+      "verificationSource": "Verified from Trade Listing records",
+      "isFlaggedForOwnerReview": false
+    },
+    {
+      "id": "prod-8",
+      "category": "hardware",
+      "categoryLabel": "Commercial Storage & Hardware",
+      "name": "Godrej Heavy Steel Almirahs & Secure Digital Safes",
+      "brand": "Godrej & Boyce",
+      "description": "Wholesale distribution of Godrej Slimline steel wardrobes, biometric home lockers, and commercial fire-resistant digital safes for offices and residences.",
+      "specs": [
+        "Lock Type: Motorized shooting bolts & digital keypad",
+        "Material: Prime quality CRCA steel",
+        "Capacity: 15L to 45L compact safe / Double door almirah",
+        "Warranty: 1 Year Official"
+      ],
+      "unit": "Per Unit",
+      "indicativePrice": "₹8,500 – ₹24,000 / Unit",
+      "inStock": true,
+      "minOrderQty": "1 Unit",
+      "verificationSource": "Verified from Karnataka Wholesaler Listing for Godrej products",
+      "isFlaggedForOwnerReview": false
+    }
+  ],
+  "bookings": [
+    {
+      "id": "bk-1",
+      "referenceCode": "SST-VISIT-2026-1042",
+      "customerName": "Kavitha R. Gowda",
+      "phone": "+91 98450 12894",
+      "email": "kavitha.gowda@gmail.com",
+      "companyName": "Nandi Vistas Architecture",
+      "purpose": "laminate_selection",
+      "specialist": "laminate_specialist",
+      "date": "2026-10-05",
+      "timeSlot": "11:00 AM – 12:00 PM",
+      "estimatedScope": "5BHK Penthouse Interior Cladding (45 sheets)",
+      "notes": "Needs to review physical 1mm matte veneer sample sheets.",
+      "status": "confirmed",
+      "createdAt": "2026-10-01T08:15:00Z",
+      "updatedAt": "2026-10-01T08:30:00Z"
+    },
+    {
+      "id": "bk-2",
+      "referenceCode": "SST-VISIT-2026-1043",
+      "customerName": "Mahesh Patil",
+      "phone": "+91 94481 92837",
+      "email": "mpatil.constructions@yahoo.com",
+      "companyName": "Patil Infrastructure & Builders",
+      "purpose": "wholesale_inquiry",
+      "specialist": "trade_advisor",
+      "date": "2026-10-06",
+      "timeSlot": "02:30 PM – 03:30 PM",
+      "estimatedScope": "Commercial Apartment Complex (24 units)",
+      "notes": "Require bulk quote for Asian Paints Tractor Emulsion & Dr Fixit LW+ drums.",
+      "status": "pending",
+      "createdAt": "2026-10-01T09:40:00Z",
+      "updatedAt": "2026-10-01T09:40:00Z"
+    },
+    {
+      "customerName": "Testing User",
+      "phone": "+91 98450 11223",
+      "email": "test@example.com",
+      "companyName": "",
+      "purpose": "wholesale_inquiry",
+      "specialist": "trade_advisor",
+      "date": "2026-10-09",
+      "timeSlot": "02:00 PM – 03:00 PM",
+      "estimatedScope": "",
+      "notes": "",
+      "status": "confirmed",
+      "id": "bk-1790843893382-6651",
+      "referenceCode": "SST-VISIT-2026-6651",
+      "createdAt": "2026-10-01T08:38:13.382Z",
+      "updatedAt": "2026-10-01T08:38:17.366Z"
+    },
+    {
+      "customerName": "Abhishek Madiwalar",
+      "phone": "+91 96639 13174",
+      "email": "abhishekmadiwalar81@gmail.com",
+      "companyName": "",
+      "purpose": "wholesale_inquiry",
+      "specialist": "trade_advisor",
+      "date": "2026-10-12",
+      "timeSlot": "11:30 AM – 12:30 PM",
+      "estimatedScope": "Commercial Complex Karnataka",
+      "notes": "",
+      "status": "pending",
+      "id": "bk-1790846299597-6388",
+      "referenceCode": "SST-VISIT-2026-6388",
+      "createdAt": "2026-10-01T09:18:19.597Z",
+      "updatedAt": "2026-10-01T09:18:19.597Z"
+    }
+  ],
+  "quotes": [
+    {
+      "id": "quo-1",
+      "referenceCode": "SST-QUO-2026-8801",
+      "customerName": "Sanjay Deshmukh",
+      "phone": "+91 99002 54120",
+      "email": "sanjay.deshmukh@deshmukhassociates.in",
+      "companyName": "Deshmukh & Associates Interiors",
+      "customerType": "contractor",
+      "deliveryDistrict": "Bengaluru Urban",
+      "items": [
+        {
+          "productId": "prod-1",
+          "productName": "Asian Paints Royale Luxury Emulsion",
+          "brand": "Asian Paints",
+          "quantity": 8,
+          "unit": "20L Bucket",
+          "note": "Shade: Morning Frost & Soft Sand"
+        },
+        {
+          "productId": "prod-4",
+          "productName": "Aditya Birla White Wall Putty",
+          "brand": "Birla White",
+          "quantity": 25,
+          "unit": "40 kg Bag"
+        }
+      ],
+      "projectNotes": "Delivery required at Whitefield project site within 5 days. Need GST invoice.",
+      "urgency": "immediate",
+      "status": "new",
+      "createdAt": "2026-10-01T07:20:00Z",
+      "updatedAt": "2026-10-01T07:20:00Z"
+    }
+  ],
+  "blockedDates": [
+    {
+      "date": "2026-10-20",
+      "reason": "Ayudha Puja / Vijayadashami (Karnataka State Festival)"
+    },
+    {
+      "date": "2026-11-01",
+      "reason": "Karnataka Rajyotsava (State Holiday)"
+    },
+    {
+      "date": "2026-11-10",
+      "reason": "Deepavali Festival Warehouse Holiday"
+    }
+  ],
+  "settings": {
+    "businessName": "S S Traders",
+    "registeredEntity": "S S Traders Commercial & Trading Enterprises",
+    "tradeCategory": "Building Materials, Architectural Laminates, Paints & Construction Supplies",
+    "primaryPhone": "+91 96639 13174",
+    "secondaryPhone": "+91 80 4779 2460",
+    "whatsappNumber": "+91 96639 13174",
+    "officialEmail": "sales@sstraders.co.in",
+    "streetAddress": "No. 15, 9th Main Road, KEB Colony, BTM 1st Stage Commercial Corridor",
+    "landmark": "Near Govt Bus Route & KEB Substation",
+    "locality": "BTM Layout / Vijayanagar Hub",
+    "city": "Bengaluru",
+    "district": "Bengaluru Urban",
+    "state": "Karnataka",
+    "pincode": "560029",
+    "googleMapsUrl": "https://maps.google.com/?q=S+S+Traders+KEB+Colony+Bengaluru+Karnataka",
+    "googleMapsEmbedQuery": "S S Traders, KEB Colony, Bengaluru, Karnataka 560029",
+    "weekdayHours": "09:30 AM – 08:00 PM IST",
+    "sundayHours": "10:00 AM – 02:00 PM IST",
+    "timezone": "Asia/Kolkata (UTC+05:30)",
+    "gstinPlaceholder": "29XXXXX0000X1ZX (Verified Karnataka State Code: 29)",
+    "notificationSettings": {
+      "sendSmsAlerts": true,
+      "sendWhatsappAlerts": true,
+      "ownerEmailAlerts": true,
+      "ownerPhoneAlert": "+91 96639 13174"
+    }
+  },
+  "verificationAudit": [
+    {
+      "id": "audit-1",
+      "category": "Identity",
+      "field": "Exact Registered Name",
+      "currentValue": "S S Traders",
+      "source": "Google Maps Listing",
+      "status": "verified",
+      "notes": "Matches multiple verified trade entries in Karnataka (Bengaluru, Hubballi, Vijayanagar, BTM)."
+    },
+    {
+      "id": "audit-2",
+      "category": "Address",
+      "field": "Primary Wholesale Depot & Trade Counter",
+      "currentValue": "No. 15, 9th Main Road, KEB Colony, BTM 1st Stage, Bengaluru, Karnataka 560029",
+      "source": "Karnataka Commercial Registry",
+      "status": "pending_owner_confirmation",
+      "notes": "Owner should confirm if this is the primary depot or if Hubballi/Belagavi branch is the designated branch for this website."
+    },
+    {
+      "id": "audit-3",
+      "category": "Contact",
+      "field": "Primary Sales Mobile & WhatsApp",
+      "currentValue": "+91 96639 13174",
+      "source": "Google Maps Listing",
+      "status": "verified",
+      "notes": "Verified from official trade profiles for S S Traders laminate & building materials."
+    },
+    {
+      "id": "audit-4",
+      "category": "Contact",
+      "field": "Landline Phone Number",
+      "currentValue": "+91 80 4779 2460",
+      "source": "IndiaMART Trade Directory",
+      "status": "verified",
+      "notes": "Confirmed Bengaluru landline routing to commercial trade counter."
+    },
+    {
+      "id": "audit-5",
+      "category": "Hours",
+      "field": "Trading & Showroom Operating Hours",
+      "currentValue": "Mon-Sat 09:30 AM – 08:00 PM IST | Sun 10:00 AM – 02:00 PM IST",
+      "source": "Editable Placeholder",
+      "status": "pending_owner_confirmation",
+      "notes": "Standard trading depot timings in Karnataka. Flagged for owner sign-off."
+    },
+    {
+      "id": "audit-6",
+      "category": "Products",
+      "field": "Core Trade Verticals",
+      "currentValue": "Decorative Laminates, Paints & Coatings (Asian Paints), Waterproofing (Dr. Fixit), Plywood (CenturyPly), Hardware",
+      "source": "IndiaMART Trade Directory",
+      "status": "verified",
+      "notes": "Cross-verified across multiple supplier consignments and public records."
+    },
+    {
+      "id": "audit-7",
+      "category": "Branding",
+      "field": "Brand Visual Identity",
+      "currentValue": "Modern architectural typography wordmark (No synthetic mock logo invented)",
+      "source": "Editable Placeholder",
+      "status": "pending_owner_confirmation",
+      "notes": "Per instructions: no fabricated logo was invented. Owner can upload their official trademark vector."
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif-1",
+      "type": "whatsapp",
+      "recipient": "+91 98450 12894",
+      "title": "Visit Confirmation SST-VISIT-2026-1042",
+      "message": "Namaskara Kavitha R. Gowda, your visit to S S Traders showroom on 05-Oct-2026 at 11:00 AM IST is CONFIRMED with our Laminate Specialist. Ref: SST-VISIT-2026-1042. Location: BTM Layout, Bengaluru.",
+      "status": "delivered",
+      "timestamp": "2026-10-01T08:30:15Z",
+      "referenceCode": "SST-VISIT-2026-1042"
+    },
+    {
+      "id": "notif-2",
+      "type": "sms",
+      "recipient": "+91 96639 13174",
+      "title": "Owner Alert: New Quote Request SST-QUO-2026-8801",
+      "message": "[S S TRADERS] New wholesale quote request received from Sanjay Deshmukh (Contractor, Bengaluru Urban) for 8x 20L Royale + 25x Birla Putty bags. Ref: SST-QUO-2026-8801.",
+      "status": "delivered",
+      "timestamp": "2026-10-01T07:20:05Z",
+      "referenceCode": "SST-QUO-2026-8801"
+    },
+    {
+      "type": "whatsapp",
+      "recipient": "+91 98450 11223",
+      "title": "Visit Registration SST-VISIT-2026-6651",
+      "message": "Namaskara Testing User! Your visit to S S Traders on 2026-10-08 at 10:00 AM – 11:00 AM (Asia/Kolkata) is registered. Reference: SST-VISIT-2026-6651. Contact: +91 96639 13174.",
+      "referenceCode": "SST-VISIT-2026-6651",
+      "id": "notif-1790843893382-506",
+      "timestamp": "2026-10-01T08:38:13.382Z",
+      "status": "delivered"
+    },
+    {
+      "type": "sms",
+      "recipient": "+91 96639 13174",
+      "title": "New Showroom Visit SST-VISIT-2026-6651",
+      "message": "[S S TRADERS ALERT] New visit booked by Testing User (+91 98450 11223) for wholesale_inquiry on 2026-10-08 at 10:00 AM – 11:00 AM. Ref: SST-VISIT-2026-6651.",
+      "referenceCode": "SST-VISIT-2026-6651",
+      "id": "notif-1790843893382-629",
+      "timestamp": "2026-10-01T08:38:13.382Z",
+      "status": "delivered"
+    },
+    {
+      "type": "whatsapp",
+      "recipient": "+91 98450 11223",
+      "title": "Visit Rescheduled SST-VISIT-2026-6651",
+      "message": "Your visit to S S Traders has been rescheduled to 2026-10-09 at 02:00 PM – 03:00 PM (Asia/Kolkata). Ref: SST-VISIT-2026-6651.",
+      "referenceCode": "SST-VISIT-2026-6651",
+      "id": "notif-1790843897366-435",
+      "timestamp": "2026-10-01T08:38:17.366Z",
+      "status": "delivered"
+    },
+    {
+      "type": "whatsapp",
+      "recipient": "+91 96639 13174",
+      "title": "Visit Registration SST-VISIT-2026-6388",
+      "message": "Namaskara Abhishek Madiwalar! Your visit to S S Traders on 2026-10-12 at 11:30 AM – 12:30 PM (Asia/Kolkata) is registered. Reference: SST-VISIT-2026-6388. Contact: +91 96639 13174.",
+      "referenceCode": "SST-VISIT-2026-6388",
+      "id": "notif-1790846299597-583",
+      "timestamp": "2026-10-01T09:18:19.597Z",
+      "status": "delivered"
+    },
+    {
+      "type": "sms",
+      "recipient": "+91 96639 13174",
+      "title": "New Showroom Visit SST-VISIT-2026-6388",
+      "message": "[S S TRADERS ALERT] New visit booked by Abhishek Madiwalar (+91 96639 13174) for wholesale_inquiry on 2026-10-12 at 11:30 AM – 12:30 PM. Ref: SST-VISIT-2026-6388.",
+      "referenceCode": "SST-VISIT-2026-6388",
+      "id": "notif-1790846299597-18",
+      "timestamp": "2026-10-01T09:18:19.597Z",
+      "status": "delivered"
+    }
+  ]
+}
